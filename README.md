@@ -22,6 +22,6 @@
 -   [Extensão VsCode Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)
 -   [Badges README](https://simpleicons.org/)
 
----
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=diegomachadoti)
+
+
